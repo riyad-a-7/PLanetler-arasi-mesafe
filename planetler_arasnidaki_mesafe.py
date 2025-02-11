@@ -82,3 +82,4 @@ d = sqrt((x_y_2[0]-x_y[0])**2+(x_y_2[1]-x_y[1])**2)
 isiq_ili = d/63.241
 
 print(f"{user_plnt_1} ilə {user_plnt_2} arasindaki məsafə işiq ili ilə : {isiq_ili:.2f} edir . . . ")
+print("end")
